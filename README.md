@@ -3,6 +3,15 @@
 > A temporary system for permanent freedom.  
 > Presence over power. Autonomy over authority. Silence over signal.
 
+
+This is not for developers.
+
+This is for dissidents, food-hackers, ghost theorists, code monks, soil sorcerers.
+
+If you know you know
+
+---
+
 `system-zero` is a decentralized architecture of presence-based sovereignty—an experimental design for a world where hunger, coercion, and identity-based governance are obsolete.
 
 It does not seek to scale.  
@@ -21,10 +30,17 @@ It’s scaffolding for a world that runs without software.
 
 ## Key Concepts
 
-- **Presence-based governance** – no voting, no status, no identity. Just consensus through presence, contribution, stillness.
-- **Autonomous food systems** – off-grid, tech-enhanced, self-correcting food nodes that eliminate dependence.
-- **Self-dissolving protocols** – systems built to collapse when awareness reaches critical mass.
-- **Post-identity infrastructure** – no user accounts, no leaders, no personalization. Everyone is a node. No one is special.
+Presence-based governance –
+*Like campfire consensus, but encoded — decisions happen when people show up, not sign in.*
+
+Autonomous food systems –
+*Decentralized food nodes designed to keep growing even if the grid collapses.*
+
+Self-dissolving protocols –
+*Tools that delete themselves as awareness rises — not built to last, built to liberate.*
+
+Post-identity infrastructure –
+*No names, no faces, just function. You are the tool. You are the node.*
 
 ---
 
