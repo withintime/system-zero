@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs or temp files (just in case)
+*.log
+*.tmp
+
+# Personal notes not for commit
+notes-local.md
+drafts/
