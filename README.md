@@ -52,7 +52,7 @@ system-zero/
 
 ├── /docs
 
-└── design-notes.md
+  └── design-notes.md
 
 ---
 
