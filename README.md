@@ -1,4 +1,4 @@
-**system-zero**
+# system-zero
 
 > A temporary system for permanent freedom.  
 > Presence over power. Autonomy over authority. Silence over signal.
@@ -19,7 +19,7 @@ It’s scaffolding for a world that runs without software.
 
 ---
 
-**Key Concepts**
+## Key Concepts
 
 - **Presence-based governance** – no voting, no status, no identity. Just consensus through presence, contribution, stillness.
 - **Autonomous food systems** – off-grid, tech-enhanced, self-correcting food nodes that eliminate dependence.
@@ -28,7 +28,7 @@ It’s scaffolding for a world that runs without software.
 
 ---
 
-**Core Values**
+## Core Values
 
 1. **Simplicity over complexity**
 2. **Silence over noise**
@@ -38,7 +38,16 @@ It’s scaffolding for a world that runs without software.
 
 ---
 
-**Final Note**
+## Project Structure
+
+- [📜 Manifesto](MANIFESTO.md)
+- [📘 Phases](PHASES.md)
+- [📁 Design Notes](docs/design-notes.md)
+- [⚖️ License](LICENSE)
+
+---
+
+## Final Note
 
 > The goal of `system-zero` is to make itself obsolete.  
 > When humans remember how to live without control, this code will delete itself.
