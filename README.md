@@ -38,24 +38,6 @@ It’s scaffolding for a world that runs without software.
 
 ---
 
-**Repo Structure**
-
-system-zero/
-
-├── README.md
-
-├── PHASES.md
-
-├── LICENSE
-
-├── .gitignore
-
-├── /docs
-
-  └── design-notes.md
-
----
-
 **Final Note**
 
 > The goal of `system-zero` is to make itself obsolete.  
